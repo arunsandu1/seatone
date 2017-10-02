@@ -3,4 +3,8 @@
 
 Sample seattle
 
-Added Ignore file
+Ad
+
+Happy me
+
+ded Ignore file
