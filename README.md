@@ -2,3 +2,5 @@
 
 
 Sample seattle
+
+Added Ignore file
